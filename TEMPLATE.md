@@ -1,12 +1,13 @@
-# Full Name 
+ARYA KRISHNAN G
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am a person who is more passionate about technologies
 
 
 ### Portfolio Highlights
-
+Github:https://github.com/AryakrishnanG   
+Linkedin:http://www.linkedin.com/in/aryakrishnang11
 
 
 #### Leadership and Influence: `required field`
@@ -15,19 +16,20 @@
 
 #### Networking: `required field`
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+For explore new technologies I believe that netwoking is an important skill to expand my knowledge and to market my skills. 
 
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+Joining top 100 coders help me to communicate with experts,techies and can help to build new network.
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+ My goal is to expand my skill and to develop various technologies.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+   Kerala boasts a wealth of top-tier talent, potentially the best in the country. However, numerous government initiatives, though commendable, often remain obscure and inaccessible to many, leading them towards the conventional seek opportunities abroad for financial gains route. It's imperative that we not only provide these opportunities but also actively disseminate awareness about them, ensuring that we retain the majority, if not all, of the talent nurtured in our state.
+
 
 #### History of Open Source Contributions:
 
